@@ -20,6 +20,6 @@ Weiterer Text
 Und vielleicht noch ein Bild:
 
 ![Ein Bild, das Text, Diagramm, Kreis, Reihe enthält.
-KI-generierte Inhalte können fehlerhaft sein.](~WRS%7b571B05AF-1333-45C8-AF76-46E41C56452B%7d-Dateien/image001.png)
+KI-generierte Inhalte können fehlerhaft sein.](~WRS%7b7C1441D1-B885-4860-9958-078311165B14%7d-Dateien/image001.png)
 
 Geändert in gitlatch
